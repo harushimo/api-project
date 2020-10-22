@@ -32,6 +32,7 @@ After clicking the button, select HTTPS option and use the command below:
 To setup the virtual environment:
 
 * Linux/MacOSX
+
 ```python3 -m venv workshop```
 
 * Windows
