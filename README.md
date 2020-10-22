@@ -57,7 +57,7 @@ To deactivate virtual environment in any OS
 * ```deactivate```
 
 ## Requirements.txt
-You will notice in the repo there is requirements text file.  Use this following command:
+You will notice a requirements text file.  Use this following command:
 ```pip install -r requirements.txt```
 
 This will help setup the required packages in your environment.
