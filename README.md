@@ -10,6 +10,22 @@ Welcome to Application Programming Interface (API) Workshop.  API allows communi
 4. [sqlalchemy](https://www.sqlalchemy.org/download.html)
 5. [Postman](https://www.postman.com/downloads/)
 
+## Git
+
+### Option 1
+Click on the Fork icon
+
+![fork-image](fork.png)
+
+This will create a copy of repository. Once you have a copy, you can clone the repo: ```git clone https://github.com/username/repo-name.git```
+
+### Option 2
+Clone the repo on your local machine by clicking the code button
+![code-image](code.png)
+
+After clicking the button, select HTTPS option and use the command below:
+
+```git clone https://github.com/username/repo-name.git```
 
 ## Virtual Environment setup
 To setup the virtual environment:
@@ -18,9 +34,11 @@ To setup the virtual environment:
 ```python3 -m venv workshop```
 
 * Windows
+
 Here are two links for the setup.
-[Windows-Virtual-Environment-setup-1](https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html)
-[Windows-Virtual-Environment-setup-2](https://www.c-sharpcorner.com/article/steps-to-set-up-a-virtual-environment-for-python-development/)
+
+- [Windows-Virtual-Environment-setup-1](https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html)
+- [Windows-Virtual-Environment-setup-2](https://www.c-sharpcorner.com/article/steps-to-set-up-a-virtual-environment-for-python-development/)
 
 To activate the virtual environments:
 1. Linux/MacOSX
@@ -41,4 +59,5 @@ You will notice in the repo there is requirements text file.  Use this following
 ```pip install -r requirements.txt```
 
 This will help setup the required packages in your environment.
+
 
